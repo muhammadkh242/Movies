@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviesMVVM</string>
+    <string name="add">add</string>
+    <string name="title">title</string>
+    <string name="year">year</string>
+    <string name="delete">delete</string>
+    <string name="exit">exit</string>
+    <string name="fav">fav</string>
+    <string name="all">all</string>
+</resources>
